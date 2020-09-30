@@ -1,4 +1,4 @@
-# Práctica 1 de Laboratiro
+# Práctica Nro. 01 de Laboratorio :sparkles:
 
 Esta práctica tratará sobre como crear y finalizar procesos usando una memoria compartida y comunicación entre procesos.
 
